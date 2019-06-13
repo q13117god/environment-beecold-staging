@@ -10,3 +10,6 @@ dependencies:
 - name: ng-golang-2019-06-13-02
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: ng-golang-2019-06-13-03
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
